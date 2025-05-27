@@ -1,0 +1,7 @@
+mailerKey: "mlsn.b4691a92a8085ea2a8df7f7e55ed34afae19003afc6bc800084666d6f93cae8d"
+
+nats:
+  hosts: ["localhost:4222","localhost:4222","localhost:4222"]
+  nkey: "SUACSSL3UAHUDXKFSNVUZRF5UHPMWZ6BFDTJ7M6USDXIEDNPPQYYYCU3VY"
+  natsSubjects:
+    userEventSubject: "user_svc.event.register"
