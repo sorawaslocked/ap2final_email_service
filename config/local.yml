@@ -1,4 +1,4 @@
-mailerKey: "mlsn.b4691a92a8085ea2a8df7f7e55ed34afae19003afc6bc800084666d6f93cae8d"
+mailerKey: ""
 
 nats:
   hosts: ["localhost:4222","localhost:4222","localhost:4222"]
